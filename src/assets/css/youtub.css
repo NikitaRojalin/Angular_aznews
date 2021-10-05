@@ -1,0 +1,71 @@
+.youtube-area .video-items iframe {
+	 width: 100%;
+	 height: 465px;
+}
+ .youtube-area .video-info {
+	 border-bottom: 1px solid #ddd;
+}
+ .youtube-area .video-info .video-caption {
+	 position: relative;
+	 top: -90px;
+}
+ .youtube-area .video-info .video-caption .top-caption {
+	 background: #fff;
+	 width: 60%;
+	 border-radius: 0 7px 0 0;
+	 padding-top: 60px;
+	 padding-bottom: 30px;
+}
+ .youtube-area .video-info .video-caption .top-caption span {
+	 padding: 7px 30px;
+	 line-height: 1;
+	 color: #000;
+	 text-transform: uppercase;
+	 font-weight: 600;
+	 font-size: 11px;
+}
+ .youtube-area .video-info .video-caption .bottom-caption h2 {
+	 font-size: 30px;
+	 font-weight: 700;
+	 margin-bottom: 27px;
+}
+ .youtube-area .video-info .video-caption .bottom-caption p {
+	 color: #777;
+	 font-size: 14px;
+	 line-height: 1.7;
+	 padding-right: 32px;
+}
+ .youtube-area {
+	/* 19. video-items */
+}
+ .youtube-area .testmonial-nav button {
+	 position: absolute;
+	 color: #333;
+	 border: none;
+	 font-size: 21px;
+	 background: #f3f4f8;
+	 width: 55px;
+	 height: 55px;
+	 border-radius: 10px;
+	 color: #bdbdbd;
+	 left: -421px;
+	 top: -114px;
+	 cursor: pointer;
+}
+ .youtube-area .testmonial-nav button.slick-next {
+	 left: -340px;
+	 background: red;
+	 color: #fff;
+}
+ .youtube-area .single-video iframe {
+	 padding: 0 5px;
+	 width: 100%;
+}
+ .youtube-area .single-video .video-intro h4 {
+	 font-size: 15px;
+	 font-weight: 500;
+	 text-align: start;
+	 padding: 0 5px;
+	 line-height: 1.4;
+}
+ 
